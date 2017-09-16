@@ -12,6 +12,17 @@ And I does not implement all from scratch (ofcause). Some, i develop myself, and
 
 To make sure the things is working correctly, I have unitested every pieces of code very carefully.
 
+This reponsitory covers:
+- Big number processing
+- RSA algorithm
+- SHA1 / SHA256 / SHA512 cypher
+- Base56 / Base64 encode/decode
+- Eliptic Curse (ECC) encrypt, decrypt, sign, verify
+- Bitcoin public/private key generator
+- HMAC SHA256
+- ... and something else
+Code is law, if you are interested in, please download the code and look into it.
+
 Thing is going on. This is just the first step.
 
 BTW, I build this project in QT IDE. If you are familiar with this, life will be easier.
